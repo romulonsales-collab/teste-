@@ -1,0 +1,7 @@
+{
+  "name": "EcoGuard - Controle de Licenças Ambientais",
+  "description": "Sistema MVP para gestão de conformidade ambiental, alertas automáticos e controle de prazos de licenças (LP, LI, LO).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
